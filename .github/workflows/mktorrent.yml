@@ -5,11 +5,11 @@ on:
       - ".github/workflows/mktorrent.yml"
       
 env:
-  name: "Firefox Setup 84.0.2"
-  comment: "Firefox Setup 84.0.2 by torrent-webseed-creator"
-  url: "https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/en-US/win64/d64376e289766ce61f2d99579fb331af3b53619bcbff418513c944eb3aab6fa5/Firefox%20Setup%2084.0.2.exe"
-  file_name: "Firefox Setup 84.0.2.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "SM-G960F_2_20200115133141_g3p4pxy3bj_fac"
+  comment: "For those samsung s9 peeps"
+  url: "https://upasset0109.b-cdn.net/GALAXYS9/SM-G960F/INS/SM-G960F_2_20200115133141_g3p4pxy3bj_fac.zip?token=ENfnY5Ppqp0a89x_p06s4w&expires=1613913167"
+  file_name: "SM-G960F_2_20200115133141_g3p4pxy3bj_fac"
+  piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
   create:
